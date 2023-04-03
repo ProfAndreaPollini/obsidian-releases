@@ -1,5 +1,12 @@
 [
     {
+  "id": "obsidian-astro-export",
+  "name": "Export to Astro",
+  "author": "Andrea Pollini",
+  "description": "Export notes to Astro site generator",
+  "repo": "ProfAndreaPollini/obsidian-astro-export"
+},
+    {
         "id": "nldates-obsidian",
         "name": "Natural Language Dates",
         "author": "Argentina Ortega Sainz",
